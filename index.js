@@ -20,6 +20,6 @@ app.get('/', (req, res) => {
     
 });
 
-app.listen(PORT, () => console.log(`Server Running on port: http://localhost:${PORT}`));
+app.listen(PORT, () => console.log(`Server Running on port: http://wellnesscenter-env.eba-qeuhmjtv.eu-west-1.elasticbeanstalk.com/:${PORT}`));
 
 
